@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Sushree Bandita 👋
 
-<!--
-**SBanditaDas/SBanditaDas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year student | 📊 Data Analyst Intern at Elevate Labs  
+💡 Passionate about building real-world tools with clarity, modularity, and impact  
+🚀 Currently working on a 45-day internship focused on data cleaning, preprocessing, and reporting
 
-Here are some ideas to get you started:
+## 📌 Featured Projects
+- [Internship Portfolio – Elevate Labs](https://github.com/SBanditaDas/Data-Analyst-Internship-Portfolio)
+- [Diabetes-Prediction-App](https://github.com/SBanditaDas/Diabetes-Prediction-App)
+- [Animal Image Classifier (PyQt5)](#)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tools & Skills
+- Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit learn etc..)
+- Machine Learning Concepts
+- Data Analyst & Data Science concept
+- Jupyter Notebook, Google Colab & VS Code
+- Git, GitHub & GitHub Desktop
