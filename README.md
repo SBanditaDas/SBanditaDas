@@ -2,17 +2,17 @@
 
 # Hii , I'm **Sushree Bandita Das**👋
 
-A Final Year student of **Computer Science and Engineering**. Containing a strong passion for learning and growing skills in the field of **data science**,  I thrive on transforming raw data into actionable insights, building reproducible pipelines, and crafting visually compelling dashboards to build the project with best technologies.
-
+_A Final Year student of **Computer Science and Engineering**. Containing a strong passion for learning and growing skills in the field of **data science**,  I thrive on transforming raw data into actionable insights, building reproducible pipelines, and crafting visually compelling dashboards to build the project with best technologies._
+```
 **- Currently learning:** Advanced ML workflows, Docker, PostgreSQL, and UI/UX for ML apps.
 **- Working on:** Image based Animal Classifier, Mobile Pricing Predictor, and YouTube Trending Video Analytics.
 **- Fun fact:** I name my projects like products — because every repo deserves a brand!
-
+```
 ## My Skills :
 
 **Languages :** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 
-**Frameworks :** ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Seaborn](https://img.shields.io/badge/-Seaborn-76B900?style=flat-square) ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+**Frameworks :** ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Seaborn](https://img.shields.io/badge/-Seaborn-4B8BBE?style=flat-square&logo=seaborn&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
 **Platforms :** ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
@@ -24,7 +24,7 @@ A Final Year student of **Computer Science and Engineering**. Containing a stron
 
   <a href="mailto:sushreebanditadas01@gmail.com" style="margin-right: 15px;">
      <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="30" style="border-radius:50%;" />
-   </a>
+   </a> sushreebanditadas01@gmail.com
 
 
    <a href="https://www.linkedin.com/in/sushree-bandita-das-160651309" target="_blank">
