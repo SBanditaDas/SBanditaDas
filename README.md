@@ -4,9 +4,9 @@
 
 _A Final Year student of **Computer Science and Engineering**. Containing a strong passion for learning and growing skills in the field of **data science**,  I thrive on transforming raw data into actionable insights, building reproducible pipelines, and crafting visually compelling dashboards to build the project with best technologies._
 ```
-**- Currently learning:** Advanced ML workflows, Docker, PostgreSQL, and UI/UX for ML apps.
-**- Working on:** Image based Animal Classifier, Mobile Pricing Predictor, and YouTube Trending Video Analytics.
-**- Fun fact:** I name my projects like products — because every repo deserves a brand!
+- Currently learning  : Advanced ML workflows, Docker, PostgreSQL, and UI/UX for ML apps.
+- Working on          : Image based Animal Classifier, Mobile Pricing Predictor, and YouTube Trending Video Analytics.
+- Fun fact            : I name my projects like products — because every repo deserves a brand!
 ```
 ## My Skills :
 
@@ -23,17 +23,17 @@ _A Final Year student of **Computer Science and Engineering**. Containing a stro
 ### 📬 Connect with Me :
 
   <a href="mailto:sushreebanditadas01@gmail.com" style="margin-right: 15px;">
-     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="30" style="border-radius:50%;" />
+     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="20" style="border-radius:50%;" />
    </a> sushreebanditadas01@gmail.com
 
 
    <a href="https://www.linkedin.com/in/sushree-bandita-das-160651309" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" style="border-radius:50%" />
-   </a>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" style="border-radius:50%" />
+   </a> 
 
 
    <a href="http://datascienceportfol.io/sushreebanditadas01" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Portfolio" width="30" style="border-radius:50%" />
+      <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Portfolio" width="20" style="border-radius:50%" />
     </a>
 
 
