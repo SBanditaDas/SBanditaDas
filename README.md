@@ -2,7 +2,7 @@
 
 # Hii , I'm **Sushree Bandita Das**👋
 
-_A Final Year student of **Computer Science and Engineering**. Containing a strong passion for learning and growing skills in the field of **data science**,  I thrive on transforming raw data into actionable insights, building reproducible pipelines, and crafting visually compelling dashboards to build the project with best technologies._
+_A Final Year student of **Computer Science and Engineering**. Containing a strong passion for learning and growing skills in the field of **data science**,  I thrive on transforming raw data into actionable insights, building reproducible pipelines, and crafting visually compelling dashboards to build the project with better outcomes._
 ```
 - Currently learning  : Advanced ML workflows, Docker, PostgreSQL, and UI/UX for ML apps.
 - Working on          : Image based Animal Classifier, Mobile Pricing Predictor, and YouTube Trending Video Analytics.
@@ -19,20 +19,22 @@ _A Final Year student of **Computer Science and Engineering**. Containing a stro
 **Tools :** ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 
+<h3>📬 Connect with Me</h3>
 
-### 📬 Connect with Me :
+<p>
+  <a href="mailto:sushreebanditadas01@gmail.com" style="display:inline-block; margin-right:20px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="30" style="border-radius:50%;" />
+  </a>
 
-  <a href="mailto:sushreebanditadas01@gmail.com" style="margin-right: 15px;">
-     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="20" style="border-radius:50%;" />  
-   </a>        
+  <a href="https://www.linkedin.com/in/sushree-bandita-das-160651309" target="_blank" style="display:inline-block; margin-right:20px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" style="border-radius:50%;" />
+  </a>
 
-   <a href="https://www.linkedin.com/in/sushree-bandita-das-160651309" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" style="border-radius:50%" />
-   </a>        
-   
-   <a href="http://datascienceportfol.io/sushreebanditadas01" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Portfolio" width="20" style="border-radius:50%" />
-    </a>
+  <a href="http://datascienceportfol.io/sushreebanditadas01" target="_blank" style="display:inline-block;">
+    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Portfolio" width="30" style="border-radius:50%;" />
+  </a>
+</p>
+
 
 ---
 > 📄 **License Notice**  
