@@ -21,16 +21,23 @@ _A Final Year student of **Computer Science and Engineering**. Containing a stro
 
 
 ### 📬 Connect with Me :
-
+---
+  Email: [sushreebanditadas01@gmail.com](mailto:sushreebanditadas01@gmail.com)
   <a href="mailto:sushreebanditadas01@gmail.com" style="margin-right: 15px;">
-     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="20" style="border-radius:50%;" />
-   </a>        <a href="https://www.linkedin.com/in/sushree-bandita-das-160651309" target="_blank">
+     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="20" style="border-radius:50%;" />  
+   </a>        
+
+  [LinkedIn](https://linkedin.com/in/sushree-bandita-das-160651309)
+   <a href="https://www.linkedin.com/in/sushree-bandita-das-160651309" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" style="border-radius:50%" />
-   </a>        <a href="http://datascienceportfol.io/sushreebanditadas01" target="_blank">
+      [LinkedIn](https://linkedin.com/in/sushree-bandita-das-160651309)
+   </a>        
+   
+   <a href="http://datascienceportfol.io/sushreebanditadas01" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Portfolio" width="20" style="border-radius:50%" />
     </a>
 
----
+
 ---
 > 📄 **License Notice**  
 > The README content in this repository is protected under a custom license.  
