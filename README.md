@@ -30,7 +30,8 @@ _A Final Year student of **Computer Science and Engineering**. Containing a stro
       <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Portfolio" width="20" style="border-radius:50%" />
     </a>
 
-
+---
+---
 > 📄 **License Notice**  
 > The README content in this repository is protected under a custom license.  
 > Reproduction or reuse without written permission is strictly prohibited.  
