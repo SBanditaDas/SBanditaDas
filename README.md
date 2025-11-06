@@ -39,8 +39,8 @@ _A Final Year student of **Computer Science and Engineering**. Containing a stro
 
 >---
 > 📄 **License Notice**  
-> The README content in this repository is protected under a custom license.  
-> Reproduction or reuse without written permission is strictly prohibited.
-> See [LICENSE-README.txt](LICENSE-README.txt) for full terms.
+> - The README content in this repository is protected under a custom license.  
+> - Reproduction or reuse without written permission is strictly prohibited.
+> - See [LICENSE-README.txt](LICENSE-README.txt) for full terms.
 
 </div>
