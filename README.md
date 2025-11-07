@@ -19,19 +19,20 @@ _A Final Year student of **Computer Science and Engineering**. Containing a stro
 **Tools :** ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 
-<h3>📬 Connect with Me</h3>
+<h3 align="left">📬 Connect with Me :</h3>
 
-<p>
-  <a href="mailto:sushreebanditadas01@gmail.com" style="display:inline-block; margin-right:20px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="30" style="border-radius:50%;" />
+<p align="left">
+  <a href="https://twitter.com/S_Bandita_Das" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="S_Bandita_Das" height="30" width="40" />
   </a>
-
-  <a href="https://www.linkedin.com/in/sushree-bandita-das-160651309" target="_blank" style="display:inline-block; margin-right:20px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" style="border-radius:50%;" />
+  <a href="http://www.linkedin.com/in/sushree-bandita-das-160651309" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sushree-bandita-das-160651309" height="30" width="40" />
   </a>
-
-  <a href="http://datascienceportfol.io/sushreebanditadas01" target="_blank" style="display:inline-block;">
-    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Portfolio" width="30" style="border-radius:50%;" />
+  <a href="http://datascienceportfol.io/sushreebanditadas01" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/web.svg" alt="sushreebanditadas01" height="30" width="40" />
+  </a>
+  <a href="https://github.com/SBanditaDas" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="SBanditaDas" height="30" width="40" />
   </a>
 </p>
 
