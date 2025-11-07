@@ -31,10 +31,14 @@ _A Final Year student of **Computer Science and Engineering**. Containing a stro
   <a href="https://github.com/SBanditaDas" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="SBanditaDas" height="30" width="40" />
   </a>
+  <a href="https://www.kaggle.com/dasbanditasushree" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dasbanditasushree" height="30" width="40" />
+  </a>
+
 </p>
 
 
-📄 **License Notice**  
+📄 **License**  
 > - The README content in this repository is protected under a custom license.  
 > - Reproduction or reuse without written permission is strictly prohibited.
 > - See [LICENSE-README.txt](LICENSE-README.txt) for full terms.
