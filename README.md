@@ -28,9 +28,6 @@ _A Final Year student of **Computer Science and Engineering**. Containing a stro
   <a href="http://www.linkedin.com/in/sushree-bandita-das-160651309" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sushree-bandita-das-160651309" height="30" width="40" />
   </a>
-  <a href="http://datascienceportfol.io/sushreebanditadas01" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/web.svg" alt="sushreebanditadas01" height="30" width="40" />
-  </a>
   <a href="https://github.com/SBanditaDas" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="SBanditaDas" height="30" width="40" />
   </a>
