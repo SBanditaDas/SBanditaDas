@@ -31,6 +31,9 @@ _A Final Year student of **Computer Science and Engineering**. Containing a stro
   <a href="https://github.com/SBanditaDas" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="SBanditaDas" height="30" width="40" />
   </a>
+  <a href="mailto:sushreebanditadas01@gmail.com" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="sushreebanditadas01@gmail.com" height="30" width="40" />
+  </a>
 </p>
 
 
