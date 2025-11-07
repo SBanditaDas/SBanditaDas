@@ -4,6 +4,7 @@
 
 _A Final Year student of **Computer Science and Engineering**. Containing a strong passion for learning and growing skills in the field of **data science**,  I thrive on transforming raw data into actionable insights, building reproducible pipelines, and crafting visually compelling dashboards to build the project with better outcomes._
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sbanditadas&label=Profile%20views&color=0e75b6&style=flat" alt="sbanditadas" /> </p>
+
 ```
 - Currently learning  : Advanced ML workflows, Docker, PostgreSQL, and UI/UX for ML apps.
 - Working on          : Image based Animal Classifier, Mobile Pricing Predictor, and YouTube Trending Video Analytics.
