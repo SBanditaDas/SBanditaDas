@@ -19,7 +19,7 @@ _A Final Year student of **Computer Science and Engineering**. Containing a stro
 **Tools :** ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 
-# 📬 Connect with Me :
+### 📬 Connect with Me :
 <h3 align="left"></h3> 
 <p align="left">
   <a href="https://twitter.com/S_Bandita_Das" target="blank">
