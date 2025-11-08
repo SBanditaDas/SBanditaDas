@@ -6,8 +6,8 @@ _A Final Year student of **Computer Science and Engineering**. Containing a stro
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sbanditadas&label=Profile%20views&color=0e75b6&style=flat" alt="sbanditadas" /> </p>
 
 ```
-- Currently learning  : Advanced ML workflows, Docker, PostgreSQL, and UI/UX for ML apps.
-- Working on          : Image based Animal Classifier, Mobile Pricing Predictor, and YouTube Trending Video Analytics.
+- Currently learning  : AI-Powered Automation, Advanced ML workflows, Docker, Generative Analytics.
+- Working on          : Computer Vision Solutions, Chatbot Development, and Machine Learning Development.
 - Fun fact            : I name my projects like products — because every repo deserves a brand!
 ```
 ## My Skills :
