@@ -1,9 +1,9 @@
-<div style="font-family: 'Calisto MT', serif;">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sbanditadas&label=Profile%20views&color=0e75b6&style=flat" alt="sbanditadas" /> </p>
 
 # Hii 👋🏻, I'm **Sushree Bandita Das**
 
 _A Final Year student of **Computer Science and Engineering**. Containing a strong passion for learning and growing skills in the field of **data science**,  I thrive on transforming raw data into actionable insights, building reproducible pipelines, and crafting visually compelling dashboards to build the project with better outcomes._
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sbanditadas&label=Profile%20views&color=0e75b6&style=flat" alt="sbanditadas" /> </p>
+
 
 ```
 - Currently learning  : AI-Powered Automation, Advanced ML workflows, Docker, Generative Analytics.
