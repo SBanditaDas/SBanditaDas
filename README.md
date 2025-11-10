@@ -43,12 +43,12 @@ _A Final Year student of **Computer Science and Engineering**. Containing a stro
   <tr>
     <td>
       <p align="left">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SBanditaDas&layout=compact&theme=tokyonight" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SBanditaDas&layout=compact&langs_count=6&hide=html,css&card_width=250&theme=tokyonight" alt="Top Languages" />
       </p>
     </td>
     <td>
       <p align="left">
-      <img src="https://github-readme-stats.vercel.app/api?username=SBanditaDas&show_icons=true&hide=prs,issues&count_private=true&theme=tokyonight" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=SBanditaDas&show_icons=true&hide=prs,issues&count_private=true&card_width=250&theme=tokyonight" alt="SUSHREE Bandita's GitHub Stats" />
       </p>
     </td>
     <td>
