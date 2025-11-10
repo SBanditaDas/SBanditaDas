@@ -43,17 +43,17 @@ _A Final Year student of **Computer Science and Engineering**. Containing a stro
   <tr>
     <td>
       <p align="left">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SBanditaDas&layout=compact&langs_count=6&hide=html,css&card_width=150&theme=tokyonight" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SBanditaDas&layout=compact&theme=tokyonight" alt="Top Languages" />
       </p>
     </td>
     <td>
       <p align="left">
-        <img src="https://github-readme-stats.vercel.app/api?username=SBanditaDas&show_icons=true&hide=prs,issues,contribs&count_private=true&hide_title=true&hide_rank=true&card_width=250&theme=tokyonight" alt="SUSHREE Bandita's GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=SBanditaDas&show_icons=true&hide=prs,issues&count_private=true&theme=tokyonight" alt="GitHub Stats" />
       </p>
     </td>
     <td>
       <p align="left">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=SBanditaDas&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=250" alt="SUSHREE Bandita's GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=SBanditaDas&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=300" alt="SUSHREE Bandita's GitHub Streak" />
       </p>
     </td>
   </tr>
