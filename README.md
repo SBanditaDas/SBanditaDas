@@ -39,6 +39,12 @@ _A Final Year student of **Computer Science and Engineering**. Containing a stro
 
 </p>
 
+## GitHub Metrics Dashboard
+
+<p align="center">
+  <img src="https://github.com/SBanditaDas/SBanditaDas/blob/main/github-metrics.svg" alt="GitHub Metrics Dashboard" width="100%" />
+</p>
+
 
 📄 **License**  
 > - The README content in this repository is protected under a custom license.  
