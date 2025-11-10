@@ -20,7 +20,6 @@ _A Final Year student of **Computer Science and Engineering**. Containing a stro
 
 **Tools :** ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-
 ## Connect with Me :
 <h3 align="left"></h3> 
 <p align="left">
@@ -36,8 +35,30 @@ _A Final Year student of **Computer Science and Engineering**. Containing a stro
   <a href="https://www.kaggle.com/dasbanditasushree" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dasbanditasushree" height="30" width="40" />
   </a>
-
+  
 </p>
+
+
+<table>
+  <tr>
+    <td>
+      <p align="left">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SBanditaDas&layout=compact&langs_count=6&hide=html,css&card_width=150&theme=tokyonight" alt="Top Languages" />
+      </p>
+    </td>
+    <td>
+      <p align="left">
+        <img src="https://github-readme-stats.vercel.app/api?username=SBanditaDas&show_icons=true&hide=prs,issues,contribs&count_private=true&hide_title=true&hide_rank=true&card_width=250&theme=tokyonight" alt="SUSHREE Bandita's GitHub Stats" />
+      </p>
+    </td>
+    <td>
+      <p align="left">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=SBanditaDas&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=250" alt="SUSHREE Bandita's GitHub Streak" />
+      </p>
+    </td>
+  </tr>
+</table>
+
 
 📄 **License**  
 > - The README content in this repository is protected under a custom license.  
