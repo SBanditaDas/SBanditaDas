@@ -1,7 +1,10 @@
 name: Metrics
 on:
-  schedule: [{cron: "0 0 * * *"}]
   workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+permissions:
+  contents: write
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -14,8 +17,6 @@ jobs:
           template: classic
           base: activity
           config_timezone: Asia/Kolkata
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 14
-          plugin_activity_filter: all
-          plugin_activity_radar: yes
+          plugin_habits: yes
+          plugin_habits_charts: yes
+          plugin_habits_charts_type: classic
