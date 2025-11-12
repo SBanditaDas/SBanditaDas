@@ -60,5 +60,5 @@ _Do check-out my working stats ⋙_
 </table>
 
 <p align="center">
-  <b><i><span style="color:#DC143C;">Thank You for your time to visit my profile. ✨</span></i></b>
+  <b><i><span style="color:#DC143C;">Thank You for your time & attention.✨</span></i></b>
 </p>
