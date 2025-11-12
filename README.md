@@ -6,9 +6,9 @@ _A Passionate **Machine Learning Engineer** thriving on transforming raw data in
 
 
 ```
-- Currently learning  : AI-Powered Automation, Advanced ML workflows, Docker, Generative Analytics.
-- Working on          : Computer Vision Solutions, Chatbot Development, and Machine Learning Development.
-- Fun fact            : I name my projects like products — because every repo deserves a brand!
+⁘ Currently learning  : AI-Powered Automation, Advanced ML workflows, Docker, Generative Analytics.
+⁘ Working on          : Computer Vision Solutions, Chatbot Development, and Machine Learning Development.
+⁘ Fun fact            : I name my projects like products — because every repo deserves a brand!
 ```
 ## My Skills :
 
