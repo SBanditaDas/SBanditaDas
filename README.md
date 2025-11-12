@@ -38,7 +38,7 @@ _A Passionate **Machine Learning Engineer** thriving on transforming raw data in
   
 </p>
 
-
+_Do check-out my working stats ⋙_
 <table>
   <tr>
     <td>
@@ -58,3 +58,7 @@ _A Passionate **Machine Learning Engineer** thriving on transforming raw data in
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <b><i><span style="color:#DC143C;">Thank You for your time to visit my profile. ✨</span></i></b>
+</p>
