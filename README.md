@@ -38,26 +38,6 @@ _A Passionate **Machine Learning Engineer**, thriving on transforming raw data i
   
 </p>
 
-_Do check-out my working stats ⋙_
-<table>
-  <tr>
-    <td>
-      <p align="left">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SBanditaDas&layout=compact&langs_count=6&hide=html,css&card_width=250&theme=tokyonight" alt="Top Languages" />
-      </p>
-    </td>
-    <td>
-      <p align="left">
-        <img src="https://github-readme-stats.vercel.app/api?username=SBanditaDas&show_icons=true&hide=prs,issues&count_private=true&card_width=250&theme=tokyonight" alt="SUSHREE Bandita's GitHub Stats" />
-      </p>
-    </td>
-    <td>
-      <p align="left">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=SBanditaDas&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=300" alt="SUSHREE Bandita's GitHub Streak" />
-      </p>
-    </td>
-  </tr>
-</table>
 
 <p align="center">
   <b><i><span style="color:#DC143C;">Thank You for your time & attention.✨</span></i></b>
