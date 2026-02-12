@@ -2,7 +2,7 @@
 
 # Hii 👋🏻, I'm **Sushree Bandita Das**
 
-_A Passionate **Machine Learning Engineer**, thriving on transforming raw data into actionable insights, building reproducible pipelines, and crafting visually compelling dashboards to build the project with better outcomes._
+_A Passionate **Data Scientist**, thriving on transforming raw data into actionable insights, building reproducible pipelines, and crafting visually compelling dashboards to build the project with better outcomes._
 
 
 ```
